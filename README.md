@@ -25,6 +25,8 @@ Análise estratégica de retenção e cohort para tomada de decisão em modelos 
 ## <a name="o-projeto"></a> O Projeto
 Desenvolvimento de uma ferramenta de **Business Intelligence** para monitoramento de saúde financeira e análise de retenção (Cohort) de uma Startup no modelo SaaS (Software as a Service).
 
+![Demonstração do Dashboard](img_data-saas-cohort-analysis/gif_analise_de_cohort.gif)
+
 ## <a name="situacao-problema"></a> Situação Problema
 O projeto simula um cenário real de planejamento estratégico. O impasse surge na definição do orçamento anual: o setor de **Marketing** propõe triplicar o investimento em aquisição, enquanto a diretoria de **UX** alerta para o aumento nos cancelamentos.
 
